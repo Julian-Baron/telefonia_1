@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="menu" unicode="&#xe801;" d="M834 90q42 0 73-30t31-75q0-42-30-73t-74-31l-730 0q-44 0-74 31t-30 73q0 44 31 75t73 30l730 0z m0 364q44 0 74-31t30-73-30-73-74-30l-730 0q-44 0-74 30t-30 73 30 73 74 31l730 0z m0 365q44 0 74-31t30-73q0-43-31-74t-73-31l-730 0q-43 0-73 31t-31 74q0 43 30 73t74 31l730 0z" horiz-adv-x="938" />
+
+<glyph glyph-name="gitlab" unicode="&#xf296;" d="M58 456l442-566-484 351q-10 7-14 19t0 24l56 172z m258 0h368l-184-566z m-111 342l111-342h-258l111 342q4 12 18 12t18-12z m737-342l56-172q4-12 0-24t-14-19l-484-351 442 566z m0 0h-258l111 342q4 12 18 12t19-12z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
